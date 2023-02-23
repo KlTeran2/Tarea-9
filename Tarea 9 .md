@@ -2,6 +2,7 @@
                                                                                       (ESPE)
                                                                                       Tarea 9
 Nombre:Kail Lenin Teran FIerro
+
 NRC: 10067
 
 1.	OBJETIVOS
